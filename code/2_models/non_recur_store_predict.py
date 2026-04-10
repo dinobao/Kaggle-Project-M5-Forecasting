@@ -1,4 +1,5 @@
 # Directory setup
+# git try 0410
 folder_name = "SUBMISSION MODEL"
 dir_ = "E:/5440-prj3/"
 
